@@ -1,0 +1,29 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .priority-4 {
+    border-left: 4px solid red;
+  }
+  
+  .priority-3 {
+    border-left: 4px solid orange;
+  }
+  
+  .priority-2 {
+    border-left: 4px solid yellow;
+  }
+  
+  .priority-1 {
+    border-left: 4px solid green;
+  }
+  
+  .priority-0 {
+    border-left: 4px solid blue;
+  }
+  
